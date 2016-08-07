@@ -4,7 +4,7 @@ Add "Bash Here" to right click menus in Windows 10, to open a bash prompt in the
 
 ![Screenshot](/ss.png?raw=true)
 
-Works both when right clicking on a folder or when right clicking on the background in Windows explorer.
+Works both when right-clicking on a folder or when right-clicking on the background in Windows explorer.
 
 Simply download or clone this repository and run [`bash-here.reg`](/bash-here.reg) to install the registries.
 
