@@ -8,6 +8,6 @@ Works both when right clicking on a folder or when right clicking on the backgro
 
 Simply download or clone this repository and run [`bash-here.reg`](/bash-here.reg) to install the registries.
 
-Similarly, run [`bash-here-remove.reg`](/bash-here.reg) to uninstall the registries.
+Similarly, run [`bash-here-remove.reg`](/bash-here-remove.reg) to uninstall the registries.
 
 **As always, please actually click on and read these registries to verify that they are harmless and helpful!**
