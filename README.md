@@ -1,6 +1,6 @@
 Ubuntu Bash Here for Windows 10
 ===============================
-Add "Bash Here" to right click menus in Windows 10, to open a bash prompt in the current directory:
+Add "Ubuntu Bash Here" to right click menus in Windows 10, to open a bash prompt in the current directory:
 
 ![Screenshot](/ss.png?raw=true)
 
